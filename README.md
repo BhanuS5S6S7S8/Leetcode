@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
