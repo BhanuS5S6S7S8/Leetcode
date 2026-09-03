@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0713-subarray-product-less-than-k) |
 | [0912-sort-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0041-first-missing-positive) |
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
 | ------- |
