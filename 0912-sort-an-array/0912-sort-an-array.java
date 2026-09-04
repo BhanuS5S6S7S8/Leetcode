@@ -1,42 +1,34 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        mergesort(nums , 0 , nums.length-1) ; 
+        int n = nums.length ; 
+        for(int i = n/2-1 ; i >= 0 ; i--){
+            heapify(nums , n , i ) ; 
+        }
+        for(int i = n-1 ; i > 0 ; i--){
+            int swap = nums[i] ; 
+            nums[i] = nums[0] ; 
+            nums[0] = swap ; 
+
+            heapify(nums , i , 0 ) ; 
+        }
         return nums ; 
     }
-    public void mergesort(int[] nums , int s , int l){
-        if(s >= l){
-            return ; 
+    public void heapify(int[] nums , int n , int i ){
+        int largest = i ; 
+        int left = 2*i +1 ;  
+        int right = 2*i + 2  ;  
+        if(left < n && nums[left] > nums[largest]){
+            largest = left ; 
         }
-        int mid = (s + l) / 2 ; 
-        mergesort(nums , s , mid ) ; 
-        mergesort(nums , mid +1 , l) ; 
+        if(right < n && nums[right] > nums[largest]){
+            largest = right ; 
+        }
+        if(largest != i){
+            int swap = nums[i] ; 
+            nums[i] = nums[largest] ; 
+            nums[largest] = swap ; 
 
-        merge(nums , s , mid , l) ; 
+            heapify(nums, n , largest) ; 
+        }
     }
-    public void merge(int[] nums , int s ,int mid ,int l ){
-        int[] temp = new int[l-s+1] ; 
-
-        int i = s; 
-        int j = mid+1 ;
-        int k = 0 ;
-
-        while(i <= mid && j <= l){
-            if(nums[i] <= nums[j]){
-                temp[k++] = nums[i++] ; 
-            }else {
-                temp[k++] = nums[j++] ; 
-            }
-        } 
-
-        while(i<=mid){
-            temp[k++] = nums[i++] ; 
-        }
-        while(j <= l){
-            temp[k++] = nums[j++] ; 
-        }
-
-        for(int x = 0 ; x < temp.length ; x++){
-            nums[x+s] = temp[x] ; 
-        }
-    } 
 }
