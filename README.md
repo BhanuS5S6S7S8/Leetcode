@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0033-search-in-rotated-sorted-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
