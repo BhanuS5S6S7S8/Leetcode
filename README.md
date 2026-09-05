@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -145,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
