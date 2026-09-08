@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0713-subarray-product-less-than-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -173,4 +175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1513-number-of-substrings-with-only-1s](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1513-number-of-substrings-with-only-1s) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
