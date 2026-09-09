@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0046-permutations) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
