@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0041-first-missing-positive) |
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -176,11 +177,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0451-sort-characters-by-frequency) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0013-roman-to-integer) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
