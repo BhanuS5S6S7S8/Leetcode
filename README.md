@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0342-power-of-four) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
@@ -210,4 +211,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
