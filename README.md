@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0509-fibonacci-number) |
