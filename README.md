@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0494-target-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0509-fibonacci-number) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
 | ------- |
