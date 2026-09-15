@@ -1,4 +1,6 @@
 class Solution {
+
+    //  25
     public int splitArray(int[] nums, int k) {
         int min = nums[0] ; 
         int max = 0 ;
