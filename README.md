@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0041-first-missing-positive) |
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0594-longest-harmonious-subsequence) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0912-sort-an-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0451-sort-characters-by-frequency) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Math
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0494-target-sum) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
