@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0494-target-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0713-subarray-product-less-than-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0410-split-array-largest-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0491-non-decreasing-subsequences) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0594-longest-harmonious-subsequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0930-binary-subarrays-with-sum) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1200-minimum-absolute-difference) |
