@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-last-stone-weight](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1288-remove-covered-intervals) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0594-longest-harmonious-subsequence) |
+| [0930-binary-subarrays-with-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0930-binary-subarrays-with-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0930-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
