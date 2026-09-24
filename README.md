@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0594-longest-harmonious-subsequence) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0014-longest-common-prefix) |
