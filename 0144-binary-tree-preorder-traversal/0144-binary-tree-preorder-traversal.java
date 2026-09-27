@@ -4,19 +4,18 @@ class Solution {
         if(root == null){
             return ans ; 
         }
-
-        Stack<TreeNode> st1 = new Stack<>() ; 
-        st1.push(root) ; 
-        while(!st1.isEmpty()){
-            TreeNode curr = st1.pop() ; 
+        Stack<TreeNode> st = new Stack<>() ; 
+        st.add(root) ; 
+        while(!st.isEmpty()){
+            TreeNode curr = st.pop() ;
             ans.add(curr.val) ; 
             if(curr.right != null){
-                st1.push(curr.right) ; 
+                st.push(curr.right) ; 
             }
             if(curr.left != null){
-                st1.push(curr.left) ; 
+                st.push(curr.left) ; 
             }
         }
-        return ans ; 
+        return ans ;
     }
 }
