@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0509-fibonacci-number) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0145-binary-tree-postorder-traversal) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0145-binary-tree-postorder-traversal) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
