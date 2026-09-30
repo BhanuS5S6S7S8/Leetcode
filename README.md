@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1669-merge-in-between-linked-lists) |
 ## String
 |  |
 | ------- |
