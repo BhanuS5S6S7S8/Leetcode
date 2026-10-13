@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0041-first-missing-positive) |
+| [0166-fraction-to-recurring-decimal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0020-valid-parentheses) |
+| [0166-fraction-to-recurring-decimal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0451-sort-characters-by-frequency) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0371-sum-of-two-integers) |
