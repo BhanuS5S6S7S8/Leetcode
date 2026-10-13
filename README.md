@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0371-sum-of-two-integers) |
@@ -453,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
