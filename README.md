@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -427,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
