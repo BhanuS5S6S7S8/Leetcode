@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0217-contains-duplicate) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0494-target-sum) |
