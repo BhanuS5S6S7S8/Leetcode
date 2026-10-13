@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0217-contains-duplicate) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0166-fraction-to-recurring-decimal) |
+| [0204-count-primes](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0371-sum-of-two-integers) |
@@ -308,10 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0204-count-primes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0204-count-primes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Trie
 |  |
@@ -437,4 +441,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0155-min-stack) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
