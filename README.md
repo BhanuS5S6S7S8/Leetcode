@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0198-house-robber) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0166-fraction-to-recurring-decimal) |
@@ -458,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0223-rectangle-area) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
