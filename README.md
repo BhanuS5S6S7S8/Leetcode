@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0047-permutations-ii) |
+| [0063-unique-paths-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0088-merge-sorted-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0198-house-robber) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0063-unique-paths-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Linked List
 |  |
