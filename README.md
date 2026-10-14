@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0349-intersection-of-two-arrays) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0594-longest-harmonious-subsequence) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0387-first-unique-character-in-a-string) |
