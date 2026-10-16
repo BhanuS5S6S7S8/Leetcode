@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0070-climbing-stairs) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0179-largest-number) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0234-palindrome-linked-list) |
