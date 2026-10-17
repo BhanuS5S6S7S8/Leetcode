@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0078-subsets) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0491-non-decreasing-subsequences) |
@@ -478,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0062-unique-paths) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
