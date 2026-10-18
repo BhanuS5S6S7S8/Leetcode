@@ -19,10 +19,10 @@ class Solution {
         ListNode preGroup = null ; 
         ListNode curr = head ;
         while(height >= k){
-            int a = k ;
             ListNode start = curr ;
             ListNode prev = null ; 
 
+            int a = k ;
             while(a > 0){
                 ListNode nex = curr.next ; 
                 curr.next = prev ;
