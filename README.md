@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3719-longest-balanced-subarray-i](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3719-longest-balanced-subarray-i) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
