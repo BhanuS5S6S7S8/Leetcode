@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3719-longest-balanced-subarray-i](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/3719-longest-balanced-subarray-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0875-koko-eating-bananas) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
