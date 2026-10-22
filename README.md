@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0062-unique-paths) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0143-reorder-list) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0166-fraction-to-recurring-decimal) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Doubly-Linked List
