@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0287-find-the-duplicate-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0234-palindrome-linked-list) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0326-power-of-three) |
