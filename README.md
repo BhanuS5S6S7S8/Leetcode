@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0179-largest-number) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0371-sum-of-two-integers) |
