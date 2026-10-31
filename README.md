@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0234-palindrome-linked-list) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0387-first-unique-character-in-a-string) |
