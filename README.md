@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0875-koko-eating-bananas) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
