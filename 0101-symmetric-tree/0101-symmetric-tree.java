@@ -5,19 +5,19 @@ class Solution {
         }
         return check(root.left , root.right) ; 
     }
-    public boolean check(TreeNode p , TreeNode q ){
-        if(p == null && q == null){
-            return true ; 
-        }if(p == null || q == null){
+    public boolean check(TreeNode lef , TreeNode rig){
+        if(lef == null && rig == null){
+            return true ;
+        }if(lef == null || rig == null){
             return false ; 
-        }if(p.val != q.val){
+        }if(lef.val != rig.val){
             return false ;
+        }if(!check(lef.left , rig.right)){
+            return false ; 
+        }if(!check(lef.right , rig.left)){
+            return false ; 
         }
-        if(!check(p.left , q.right)){
-            return false ;
-        }if(!check(p.right , q.left)){
-            return false ;
-        }
-        return true ; 
+
+        return true ;
     }
 }
