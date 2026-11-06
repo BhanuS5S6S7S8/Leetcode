@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0494-target-sum) |
 ## Sorting
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0543-diameter-of-binary-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## Depth-First Search
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0543-diameter-of-binary-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## Breadth-First Search
