@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## Depth-First Search
 |  |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0637-average-of-levels-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
