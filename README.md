@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0166-fraction-to-recurring-decimal) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0136-single-number) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/BhanuS5S6S7S8/Chitkara/tree/master/0495-teemo-attacking) |
 ## Monotonic Queue
 |  |
